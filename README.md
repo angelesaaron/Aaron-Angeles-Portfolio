@@ -1,6 +1,10 @@
-# Aaron Angeles: Portfolio
-Data Science &amp; Analytics Portfolio
-* Junior at Cornell University, Studying Information Science & Statistics
+# About: Aaron Santos Angeles
+* Cornell University Class of 2022
+* College of Agriculture and Life Sciences
+  * Information Science
+* College of Arts & Sciences
+  * Statistical Science
+
 
 
 # [2020 Summer Internship - IMRecruitable](https://github.com/angelesaaron/IMR_Matchmaking)
