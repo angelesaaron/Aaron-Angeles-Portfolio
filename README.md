@@ -1,4 +1,4 @@
-## Aaron Santos Angeles
+## [Aaron Santos Angeles](https://www.linkedin.com/in/aaron-angeles/)
 * **Cornell University**, *Class of 2022*
   * *Information Science*, College of Agriculture and Life Sciences
   * *Statistical Science*, College of Arts & Sciences
