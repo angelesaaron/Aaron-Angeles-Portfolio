@@ -1,10 +1,12 @@
 ## Aaron Santos Angeles
 * **Cornell University Class of 2022**
-
-* College of Agriculture and Life Sciences
-  * Information Science
-* College of Arts & Sciences
-  * Statistical Science
+ * College of Agriculture and Life Sciences
+   * Information Science
+ * College of Arts & Sciences
+   * Statistical Science
+* **Ponte Vedra, FL**
+* **asa277@cornell.edu**
+* **(631)-561-1411**
 
 
 # [2020 Summer Internship - IMRecruitable](https://github.com/angelesaaron/IMR_Matchmaking)
