@@ -1,5 +1,6 @@
-# Aaron Santos Angeles
-* Cornell University Class of 2022
+## Aaron Santos Angeles
+* **Cornell University Class of 2022**
+
 * College of Agriculture and Life Sciences
   * Information Science
 * College of Arts & Sciences
