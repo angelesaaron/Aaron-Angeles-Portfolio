@@ -13,3 +13,4 @@
 * Ran distributional analysis in R to compute percentiles and distributional information
 * Built standard input interface to trial algorithm
 * Disclaimer: Algorithm does not include college major information/data because data set was not provided within time constraints of internship.
+![](https://github.com/angelesaaron/Aaron-Angeles-Portfolio/blob/main/images/IMRecruitableLogo)
