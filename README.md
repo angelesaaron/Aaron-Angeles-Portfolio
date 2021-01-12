@@ -9,6 +9,10 @@
 * Wrote unique queries in R, to sort and manipulate city, country and regional data points
 * Computed percentile metrics on included world, and U.S. cities
 * Modeled tourism fluctuation and year-year change to a transformed regression and quantified associated metrics
+![](/images/Dom:Intl.png)
+  * Figure 1: Comparison of Domestic v.s. International Travel Year-Year Percent Increase within increments between
+  2019-2028. 
+* ***Click on link to see more***
 
 
 # [2020 Summer Internship - IMRecruitable](https://github.com/angelesaaron/IMR_Matchmaking)
