@@ -4,7 +4,7 @@
   * *Statistical Science*, College of Arts & Sciences
 
 
-# [Project for NYC & Co.](https://github.com/angelesaaron)
+# [Project for NYC & Co.](https://github.com/angelesaaron/WorldCitiesProject)
 * Ran statistical analysis on World City Tourism raw data from 2019-2028
 * Wrote unique queries in R, to sort and manipulate city, country and regional data points
 * Computed percentile metrics on included world, and U.S. cities
