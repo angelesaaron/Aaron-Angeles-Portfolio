@@ -20,6 +20,7 @@
 * Implemented server-side form validation, sql database querying, intermediate HTML and CSS structure/styling
 * ![](/images/studysounds-home.png)
 * ![](/images/studysounds-catalog.png)
+* ![](/images/studysounds-info.png)
 
 # [2020 Summer Internship - IMRecruitable](https://github.com/angelesaaron/IMR_Matchmaking)
 ![](/images/IMRecruitableLogo.png)
