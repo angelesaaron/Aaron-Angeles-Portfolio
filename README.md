@@ -31,7 +31,6 @@
 
 
 ### Contact
-If you have ideas let's talk:
 I can be reached at
   * asa277@cornell.edu
   * (631)-561-1411
