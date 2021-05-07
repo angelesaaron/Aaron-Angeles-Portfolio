@@ -14,6 +14,12 @@
   2019-2028. 
 * ***Click on link to see more***
 
+* [StudySounds - INFO2300 @ Cornell](https://github.com/angelesaaron/studysounds)
+* Created front and backend of music catalog site for activity based genres to support tagging, filtering, login/logout and file upload.
+* Website created using HTML, CSS, PHP (dynamic accessibility) and SQL (database)
+* Implemented server-side form validation, sql database querying, intermediate HTML and CSS structure/styling
+* ![](/images/studysounds-home.png)
+* ![](/images/studysounds-catalog.png)
 
 # [2020 Summer Internship - IMRecruitable](https://github.com/angelesaaron/IMR_Matchmaking)
 ![](/images/IMRecruitableLogo.png)
