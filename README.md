@@ -7,7 +7,7 @@
 * Capstone Project as apart of the inagural class of the NBA Future Analytics Stars Program
 * Investigated the optimal time to tweet and best content for engagement from scraping the Twitter API
 * Individually focused on the NBA League account, fitting the data to a negative binomial model
-* Refer to the repository to see full slide deck!
+* Refer to the [repository](https://github.com/angelesaaron/NBAFAS) to see full slide deck!
 * ![](/images/nba-fas-slide.png)
 
 # [Volunteer Project - NYC & Co.](https://github.com/angelesaaron/WorldCitiesProject)
