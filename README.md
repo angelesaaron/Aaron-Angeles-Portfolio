@@ -3,6 +3,11 @@
   * *Information Science*, College of Agriculture and Life Sciences
   * *Statistical Science*, College of Arts & Sciences
 
+# [Social Media Analysis - NBA Future Analytics Stars](https://github.com/angelesaaron/NBAFAS)
+* Capstone Project as apart of the inagural class of the NBA Future Analytics Stars Program
+* Investigated the optimal time to tweet and best content for engagement from scraping the Twitter API
+* Individually focused on the NBA League account, fitting the data to a negative binomial model
+* ![](/images/nba-fas-slide.png)
 
 # [Volunteer Project - NYC & Co.](https://github.com/angelesaaron/WorldCitiesProject)
 * Ran statistical analysis on World City Tourism raw data from 2019-2028
